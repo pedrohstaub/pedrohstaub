@@ -28,6 +28,6 @@
 
 <div>
   <a target="_blank" href="mailto:ppedrohstaub@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a target="_blank" href="https://www.instagram.com/pedro.staub/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <!-- <a target="_blank" href="https://www.instagram.com/pedro.staub/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>-->
   <a target="_blank" href="https://www.linkedin.com/in/pedro-henrique-staub-962141101/?locale=en_US"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
