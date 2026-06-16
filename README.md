@@ -1,7 +1,7 @@
 ## Hi there, I'm Pedro Staub 👋
 
-- 🔭 I’m currently working with PHP, JS, Python and a little bit of ReactJS.
-- 🌱 I’m learning VueJS and Python.
+- 🔭 I’m currently working with PHP, JS, Python and ReactJS.
+- 🌱 I’m improving my skills on VueJS, Node.js and Python.
 - 👯 I’m looking to collaborate on PHP + VueJs
 - 📫 How to reach me: ppedrohstaub@gmail.com
 
